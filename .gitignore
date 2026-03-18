@@ -1,0 +1,8 @@
+.venv/
+.python-version
+*.txt
+*.xls
+*.bak
+__pycache__/
+*.pyc
+comparar/

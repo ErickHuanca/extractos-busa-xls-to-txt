@@ -1,6 +1,6 @@
 # Generador de TXT Banco Unión
 
-Convierte extractos bancarios del Banco Unión (formato `.xls`) al formato TXT de 110 caracteres por línea requerido por el sistema OVT (Ministerio de Trabajo).
+Convierte extractos bancarios del Banco Unión (formato `.xls`) al formato TXT de 110 caracteres por línea requerido por el sistema requerido.
 
 Procesa los tipos de operación **DEP** (depósito), **TEC** (transferencia electrónica) y **CRV** (cobro por ventanilla) con crédito mayor a cero.
 
